@@ -1,0 +1,1 @@
+{$inv_type|cat:'_'|cat:$station_id}
