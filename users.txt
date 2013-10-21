@@ -1,0 +1,12 @@
+SPBU owner
+u: jajamiharja
+p: jajamiharja
+id : 31.1234
+
+Power user :
+u : nathani
+p : nathani
+
+Super user :
+u: superuser
+p:m4st3ry0d4
