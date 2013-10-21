@@ -1,0 +1,3 @@
+Pertanyaan SPBU :
+1/ Kapasitas tangki untuk masing-masing inventory (no tangki).
+2/ berapa kali update setiap hari.
