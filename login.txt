@@ -1,0 +1,15 @@
+spbu 1
+login : spbu1admin
+password : spbu1admin
+
+spbu 2
+login : spbu2admin
+password : spbu2admin
+
+superuser
+login : superuser
+password : m4st3ry0d4
+
+pertamina
+login : pertamina
+password : pertamina

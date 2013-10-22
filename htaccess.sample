@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !443
+RewriteCond %{REQUEST_URI} ^/LoginAction.php
+RewriteRule ^(.*)$ https://%{SERVER_NAME}/$1 [R,L]
